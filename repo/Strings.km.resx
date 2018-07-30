@@ -1,0 +1,249 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="back" xml:space="preserve">
+    <value>ត្រឡប់​ក្រោយ</value>
+  </data>
+  <data name="basicversion" xml:space="preserve">
+    <value>កំណែមូលដ្ឋាន</value>
+  </data>
+  <data name="blackscreen" xml:space="preserve">
+    <value>អេក្រង់ទទេ</value>
+  </data>
+  <data name="button1" xml:space="preserve">
+    <value>បើកឯកសារ</value>
+  </data>
+  <data name="button10" xml:space="preserve">
+    <value>នាំយករូបភាពត្រលប់ទៅកុំព្យូទ័រវិញ</value>
+  </data>
+  <data name="button11" xml:space="preserve">
+    <value>បង្ហាញនៅលើទូរទស្សន៍</value>
+  </data>
+  <data name="button12" xml:space="preserve">
+    <value>នាំយករូបភាពត្រលប់ទៅកុំព្យូទ័រវិញ</value>
+  </data>
+  <data name="button13" xml:space="preserve">
+    <value>បង្ហាញនៅលើទូរទស្សន៍</value>
+  </data>
+  <data name="button14" xml:space="preserve">
+    <value>ការកំណត់</value>
+  </data>
+  <data name="button2" xml:space="preserve">
+    <value>នាំយករូបភាពត្រលប់ទៅកុំព្យូទ័រវិញ</value>
+  </data>
+  <data name="button3" xml:space="preserve">
+    <value>បង្ហាញនៅលើទូរទស្សន៍</value>
+  </data>
+  <data name="button4" xml:space="preserve">
+    <value>ចាប់ផ្តើមវីដេអូ</value>
+  </data>
+  <data name="button5" xml:space="preserve">
+    <value>ផ្អាកវីដេអូ</value>
+  </data>
+  <data name="button6" xml:space="preserve">
+    <value>ពង្រីករូបភាព</value>
+  </data>
+  <data name="button7" xml:space="preserve">
+    <value>សមនឹងរូបភាព</value>
+  </data>
+  <data name="button8" xml:space="preserve">
+    <value>ចុងក្រោយ</value>
+  </data>
+  <data name="button9" xml:space="preserve">
+    <value>បន្ទាប់</value>
+  </data>
+  <data name="connectthetv" xml:space="preserve">
+    <value>ភ្ជាប់ទៅទូរទស្សន៍</value>
+  </data>
+  <data name="displaying" xml:space="preserve">
+    <value>បង្ហាញ</value>
+  </data>
+  <data name="freeversion" xml:space="preserve">
+    <value>កំណែឥតគិតថ្លៃ</value>
+  </data>
+  <data name="general" xml:space="preserve">
+    <value>ការលៃតម្រូវទូទៅ</value>
+  </data>
+  <data name="imagenumber" xml:space="preserve">
+    <value>លេខរូបភាព</value>
+  </data>
+  <data name="languages" xml:space="preserve">
+    <value>ភាសា</value>
+  </data>
+  <data name="localmeetinglocation" xml:space="preserve">
+    <value>កិច្ចប្រជុំក្នុងតំបន់</value>
+  </data>
+  <data name="location" xml:space="preserve">
+    <value>កន្លែង</value>
+  </data>
+  <data name="meetingcoordinatorbasic" xml:space="preserve">
+    <value>កិច្ចប្រជុំសម្របសម្រួល (ការបោះពុម្ពមូលដ្ឋាន)</value>
+  </data>
+  <data name="meetingcoordinatorfree" xml:space="preserve">
+    <value>កិច្ចប្រជុំសម្របសម្រួល (បោះពុម្ពដោយឥតគិតថ្លៃ)</value>
+  </data>
+  <data name="meetingcoordinatorprofessional" xml:space="preserve">
+    <value>កិច្ចប្រជុំសម្របសម្រួល (ការបោះពុម្ពអាជីព)</value>
+  </data>
+  <data name="meetingcoordinatorultimate" xml:space="preserve">
+    <value>កិច្ចប្រជុំសម្របសម្រួល (ការបោះពុម្ពផ្សាយដ៏ល្អបំផុត)</value>
+  </data>
+  <data name="notdisplaying" xml:space="preserve">
+    <value>មិនបង្ហាញនៅលើទូរទស្សន៍</value>
+  </data>
+  <data name="of" xml:space="preserve">
+    <value>ពី</value>
+  </data>
+  <data name="ok" xml:space="preserve">
+    <value>យល់ព្រម</value>
+  </data>
+  <data name="opensomething" xml:space="preserve">
+    <value>ស្វែងរកនិងបើកវីដេអូឬរូបថត</value>
+  </data>
+  <data name="preferences" xml:space="preserve">
+    <value>ចំណូលចិត្ត</value>
+  </data>
+  <data name="professionalversion" xml:space="preserve">
+    <value>កំណែជំនាញ</value>
+  </data>
+  <data name="purchasecode" xml:space="preserve">
+    <value>លេខកូដទិញ</value>
+  </data>
+  <data name="remotelocation" xml:space="preserve">
+    <value>ទីតាំងពីចម្ងាយ</value>
+  </data>
+  <data name="saveandrestart" xml:space="preserve">
+    <value>រក្សាទុកនិងចាប់ផ្តើមឡើងវិញ</value>
+  </data>
+  <data name="setup" xml:space="preserve">
+    <value>ការដំឡើង</value>
+  </data>
+  <data name="thereisnotv" xml:space="preserve">
+    <value>មិនទាន់បានភ្ជាប់ទូរទស្សន៍</value>
+  </data>
+  <data name="ultimateversion" xml:space="preserve">
+    <value>កំណែចុងក្រោយ</value>
+  </data>
+  <data name="upgrades" xml:space="preserve">
+    <value>ធ្វើឱ្យប្រសើរ</value>
+  </data>
+  <data name="videoopened" xml:space="preserve">
+    <value>វីដេអូត្រូវបានបើករួចហើយ</value>
+  </data>
+</root>
